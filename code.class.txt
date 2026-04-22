@@ -5,5 +5,5 @@ feture3
 
 feature4
 feature5
-feture6
+feture6 - fixed feture in hotfix
 ...........feature1 to 3 is ready for first release..............
