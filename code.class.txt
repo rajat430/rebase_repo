@@ -7,3 +7,7 @@ feature4
 feature5
 feture6
 ...........feature1 to 3 is ready for first release..............
+feature7
+feature8
+feture9
+...........feature1 to 3 is ready for second release..............
