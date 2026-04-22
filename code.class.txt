@@ -7,3 +7,16 @@ feature4
 feature5
 feture6 - fixed feture in hotfix
 ...........feature1 to 3 is ready for first release..............
+feature7
+feature8
+feture9
+...........feature1 to 3 is ready for second release..............
+feature10
+feature11
+feture12
+...........feature10 to 11 is ready for second release..............
+...........feature1 to 3 is ready for second release..............
+feature12
+feature13
+feture14
+...........feature10 to 11 is ready for second release..............
